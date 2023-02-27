@@ -1,0 +1,26 @@
+.carousel-inner::after {
+  display: block;
+  clear: both;
+  content: "";
+}
+
+.bg-img1 {
+  height: 600px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://xuconcept.com/wp-content/uploads/2021/11/tai-hinh-nen-mien-phi.jpg");
+}
+
+.bg-img2 {
+  height: 600px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://xuconcept.com/wp-content/uploads/2021/11/tai-hinh-nen-mien-phi.jpg");
+}
+
+.bg-img3 {
+  height: 600px;
+  background-color: #000;
+  background-size: cover;
+  background-image: url("https://xuconcept.com/wp-content/uploads/2021/11/tai-hinh-nen-mien-phi.jpg");
+}
